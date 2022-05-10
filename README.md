@@ -3,7 +3,7 @@
 * começo dos modulos de python com POO --
 * Introdução dos modulos que eu mais uso no dia dia--
 
-<<<<<<< HEAD
+
 
 <img  align="center" alt="logica" src="python.png"> 
 
